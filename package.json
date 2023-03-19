@@ -1,0 +1,14 @@
+{
+  "name": "Discord bot boilerplate",
+  "version": "1.0.0",
+  "description": "A basic DiscordJS V14 boilerplate with commands and events handlers, based on the DiscordJS official guide",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Brito",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.8.0"
+  }
+}
