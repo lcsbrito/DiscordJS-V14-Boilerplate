@@ -1,7 +1,6 @@
 # Discord.js V14 Bot Boilerplate
 
 This is a boilerplate for creating Discord bots using Discord.js V14. It includes a command handler and event handler to make it easier to organize your code and add new functionality to your bot.
-Prerequisites
 
 ## Requirements
 

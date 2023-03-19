@@ -4,7 +4,8 @@
   "description": "A basic DiscordJS V14 boilerplate with commands and events handlers, based on the DiscordJS official guide",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
   },
   "author": "Lucas Brito",
   "license": "ISC",
