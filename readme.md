@@ -47,7 +47,7 @@ For more information on creating commands, see the Discord.js V14 documentation.
 
 ## Creating Events
 
-To create a new event, create a new file in the ./events directory. The file should export an object with the following properties:
+To create a new event, create a new file in the `"./events"` directory. The file should export an object with the following properties:
 
 ```
 module.exports = {
